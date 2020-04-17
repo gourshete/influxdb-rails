@@ -18,7 +18,7 @@ It provides an overview and you can also drill down into numbers on a per reques
 
 To be able to measure performance you need the following things available:
 
-- [InfluxDB 1.x](https://docs.influxdata.com/influxdb/v1.7/introduction/installation/)
+- [InfluxDB 1.x](https://docs.influxdata.com/influxdb/v1.8/introduction/install/)
 - [Grafana](https://grafana.com/docs/)
 - A [Ruby On Rails](https://rubyonrails.org/) application with [influxdb-rails](https://github.com/influxdata/influxdb-rails) enabled
 
